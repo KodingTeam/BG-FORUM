@@ -110,7 +110,7 @@
 	h1 {
 		font-weight: 600;
 		font-size: 2em;
-		color: black;
+		color: #397CAC;
 		margin-top: 0;
 	}
 	p {
@@ -257,4 +257,21 @@ h2
 #post_content p
 {
 	font-size:20px;
+}
+.wrapper h2
+{
+	color:white;
+}
+.wrapper
+{
+	margin-bottom:3%;
+}
+#comments h2
+{
+	color:black;
+}
+#comments h3
+{
+	color:gray;
+	font-size:16px;
 }
