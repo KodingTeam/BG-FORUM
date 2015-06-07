@@ -16,7 +16,8 @@
 
  body {
  	font-family: 'Lato', sans-serif;
- 	background-image: url("backg.jpg");
+ 	background-image: url("back.jpg");
+	background-attachment: fixed;
  }
 
 .wrapper {
@@ -288,4 +289,6 @@ form
   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
   /* For IE 8*/
   -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	padding: 2em 5%;
+	border-radius: .5em;
 }
